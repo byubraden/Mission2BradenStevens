@@ -37,6 +37,7 @@ internal class Program
             roleTotalNumber += 1;
         }
         
+        // Git test
         System.Console.WriteLine("Thank you for using the dice throwing simulator. Goodbye!");
         
     }
