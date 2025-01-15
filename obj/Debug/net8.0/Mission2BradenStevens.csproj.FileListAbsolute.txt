@@ -1,0 +1,14 @@
+/Users/bradenstevens/RiderProjects/Mission2BradenStevens/bin/Debug/net8.0/Mission2BradenStevens
+/Users/bradenstevens/RiderProjects/Mission2BradenStevens/bin/Debug/net8.0/Mission2BradenStevens.deps.json
+/Users/bradenstevens/RiderProjects/Mission2BradenStevens/bin/Debug/net8.0/Mission2BradenStevens.runtimeconfig.json
+/Users/bradenstevens/RiderProjects/Mission2BradenStevens/bin/Debug/net8.0/Mission2BradenStevens.dll
+/Users/bradenstevens/RiderProjects/Mission2BradenStevens/bin/Debug/net8.0/Mission2BradenStevens.pdb
+/Users/bradenstevens/RiderProjects/Mission2BradenStevens/obj/Debug/net8.0/Mission2BradenStevens.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bradenstevens/RiderProjects/Mission2BradenStevens/obj/Debug/net8.0/Mission2BradenStevens.AssemblyInfoInputs.cache
+/Users/bradenstevens/RiderProjects/Mission2BradenStevens/obj/Debug/net8.0/Mission2BradenStevens.AssemblyInfo.cs
+/Users/bradenstevens/RiderProjects/Mission2BradenStevens/obj/Debug/net8.0/Mission2BradenStevens.csproj.CoreCompileInputs.cache
+/Users/bradenstevens/RiderProjects/Mission2BradenStevens/obj/Debug/net8.0/Mission2BradenStevens.dll
+/Users/bradenstevens/RiderProjects/Mission2BradenStevens/obj/Debug/net8.0/refint/Mission2BradenStevens.dll
+/Users/bradenstevens/RiderProjects/Mission2BradenStevens/obj/Debug/net8.0/Mission2BradenStevens.pdb
+/Users/bradenstevens/RiderProjects/Mission2BradenStevens/obj/Debug/net8.0/Mission2BradenStevens.genruntimeconfig.cache
+/Users/bradenstevens/RiderProjects/Mission2BradenStevens/obj/Debug/net8.0/ref/Mission2BradenStevens.dll
