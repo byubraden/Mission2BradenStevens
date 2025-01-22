@@ -12,3 +12,4 @@
 /Users/bradenstevens/RiderProjects/Mission2BradenStevens/obj/Debug/net8.0/Mission2BradenStevens.pdb
 /Users/bradenstevens/RiderProjects/Mission2BradenStevens/obj/Debug/net8.0/Mission2BradenStevens.genruntimeconfig.cache
 /Users/bradenstevens/RiderProjects/Mission2BradenStevens/obj/Debug/net8.0/ref/Mission2BradenStevens.dll
+/Users/bradenstevens/RiderProjects/Mission2BradenStevens/obj/Debug/net8.0/Mission2BradenStevens.sourcelink.json
